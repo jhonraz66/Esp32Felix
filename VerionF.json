@@ -1,5 +1,5 @@
 {
     "type": "Esp32Felix",
     "version": "1.0",
-    "url": "http://192.168.0.100/fota/esp32-fota-http-2.bin"
+    "url": "https://raw.githubusercontent.com/jhonraz66/Esp32Felix/main/fw.bin"
 }
